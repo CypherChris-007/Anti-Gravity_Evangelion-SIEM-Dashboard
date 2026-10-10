@@ -64,3 +64,20 @@ To run or customize the code on your own machine:
    ```bash
    git clone [https://github.com/CypherChris-007/Anti-Gravity_Evangelion-SIEM-Dashboard.git](https://github.com/CypherChris-007/Anti-Gravity_Evangelion-SIEM-Dashboard.git)
    cd Anti-Gravity_Evangelion-SIEM-Dashboard
+### Installation & Execution
+
+1. **Install dependencies:**
+   ```bash
+   pnpm install
+
+Start the development server:
+
+Bash
+pnpm dev
+Note: Alternatively, execute start.cmd if using the quick launch script.
+
+View in Browser:
+Open http://localhost:3000 in your browser to view the running dashboard.
+
+📄 License
+This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT)
